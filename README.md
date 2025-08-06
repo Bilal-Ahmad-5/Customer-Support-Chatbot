@@ -6,19 +6,19 @@ Project Overview
 
 Developed a stateful chatbot that handles complex travel queries through specialized AI agents:
 
-✈️ Flight info, updates & cancellations
-🏨 Hotel bookings & recommendations
-🚗 Car rental reservations
-🗺️ Trip planning & excursion booking
-📑 Policy lookup via semantic search
+- ✈️ Flight info, updates & cancellations
+- 🏨 Hotel bookings & recommendations
+- 🚗 Car rental reservations
+- 🗺️ Trip planning & excursion booking
+- 📑 Policy lookup via semantic search
 
 Key Technical Features
 
-✅ Multi-Agent Orchestration with LangGraph
-✅ Secure Sensitive Operations (user approval workflow)
-✅ Hybrid Data Retrieval: SQL + Vector Search (Sentence Transformers)
-✅ External API Integration (Tavily for real-time data)
-✅ Modular Tool Design for easy extensibility
+- ✅ Multi-Agent Orchestration with LangGraph
+- ✅ Secure Sensitive Operations (user approval workflow)
+- ✅ Hybrid Data Retrieval: SQL + Vector Search (Sentence Transformers)
+- ✅ External API Integration (Tavily for real-time data)
+- ✅ Modular Tool Design for easy extensibility
 
 Tech Stack
 
@@ -30,7 +30,7 @@ Tech Stack
 
 Setup in 3 Steps
 
-git clone [repo_url]
+git clone https://github.com/Bilal-Ahmad-5/Customer-Support-Chatbot.git
 
 pip install -r requirements.txt
 
