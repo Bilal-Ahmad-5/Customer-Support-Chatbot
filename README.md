@@ -22,11 +22,11 @@ Key Technical Features
 
 Tech Stack
 
-• LLM: Google Gemini
-• Framework: LangChain + LangGraph
-• Database: SQLite
-• Search: Tavily + Sentence Transformers
-• Infra: Python, FastAPI (implied)
+- LLM: Google Gemini
+- Framework: LangChain + LangGraph
+- Database: SQLite
+- Search: Tavily + Sentence Transformers
+- Infra: Python, FastAPI (implied)
 
 Setup in 3 Steps
 
@@ -39,10 +39,10 @@ GOOGLE_API_KEY, TAVILY_API_KEY
 
 Extendable Design Opportunities
 
-• Add payment processing agents 💳
-• Integrate voice interface (ASR/TTS) 🎤
-• Implement real-flight API connections 🌐
-• Add multi-language support 🌍
+- Add payment processing agents 💳
+- Integrate voice interface (ASR/TTS) 🎤
+- Implement real-flight API connections 🌐
+- Add multi-language support 🌍
 
 See it in action?
 Sample conversation:
@@ -50,11 +50,8 @@ Sample conversation:
 User: "Help! My LAX-SFO flight got canceled"
 Bot:
 
-Retrieves booking details
-
-Suggests alternatives via flight agent
-
-Requests approval for rebooking
-
-Confirms new itinerary
+- Retrieves booking details
+- Suggests alternatives via flight agent
+- Requests approval for rebooking
+- Confirms new itinerary
 
