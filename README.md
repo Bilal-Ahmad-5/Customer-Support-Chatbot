@@ -1,8 +1,11 @@
 🚀 Just Built a Modular Customer Support Chatbot for Travel Industry
+
 Leveraging LangGraph, Google Gemini & Multi-Agent Design
 
 Project Overview
+
 Developed a stateful chatbot that handles complex travel queries through specialized AI agents:
+
 ✈️ Flight info, updates & cancellations
 🏨 Hotel bookings & recommendations
 🚗 Car rental reservations
@@ -10,6 +13,7 @@ Developed a stateful chatbot that handles complex travel queries through special
 📑 Policy lookup via semantic search
 
 Key Technical Features
+
 ✅ Multi-Agent Orchestration with LangGraph
 ✅ Secure Sensitive Operations (user approval workflow)
 ✅ Hybrid Data Retrieval: SQL + Vector Search (Sentence Transformers)
@@ -17,6 +21,7 @@ Key Technical Features
 ✅ Modular Tool Design for easy extensibility
 
 Tech Stack
+
 • LLM: Google Gemini
 • Framework: LangChain + LangGraph
 • Database: SQLite
@@ -33,6 +38,7 @@ Set env vars:
 GOOGLE_API_KEY, TAVILY_API_KEY
 
 Extendable Design Opportunities
+
 • Add payment processing agents 💳
 • Integrate voice interface (ASR/TTS) 🎤
 • Implement real-flight API connections 🌐
